@@ -15,6 +15,7 @@ and it will create automatically file like this.
 ```
 screenshot_20250219_012625.bmp.
 ```
+Watch version detects automatically.
 
 # [RU] MiWatchEmuScreenshot
 
@@ -35,4 +36,4 @@ screenshot_20250219_012625.bmp.
 ```
 screenshot_20250219_012625.bmp.
 ```
-
+Версия часов определяется автоматически.
