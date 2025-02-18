@@ -37,3 +37,6 @@ Watch version detects automatically.
 screenshot_20250219_012625.bmp.
 ```
 Версия часов определяется автоматически.
+
+# Screenshot Sample
+![image](img/screenshot_20250219_012625.png)
