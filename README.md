@@ -15,7 +15,7 @@ and it will create automatically file like this.
 ```
 screenshot_20250219_012625.bmp.
 ```
-Watch version detects automatically.
+Watch model, i.e. resolution, detects automatically.
 
 # [RU] MiWatchEmuScreenshot
 
