@@ -38,5 +38,5 @@ screenshot_20250219_012625.bmp.
 ```
 Версия часов определяется автоматически.
 
-# Screenshot Sample
-![image](img/screenshot_20250219_012625.png)
+# Screenshot Samples
+![image](img/screenshot_20250219_060409.png) ![image](img/screenshot_20250219_062213.png)
